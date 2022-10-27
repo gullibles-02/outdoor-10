@@ -1,10 +1,12 @@
 {
   "name": "spzhZy2zCKhsYq9I8f0UQ8SXik3wMWYBb8FdQyej6M3LNcpudo",
   "theme": "syntax",
-  "version": "1.0.41",
+  "version": "1.0.42",
   "description": "คาสิโนถูกกฎหมายในไทย Slotxo เนื่องแต่ คาสิโนถูกกฎหมายในไทย ที่ Slot1234 เว็บพนัน มีเกมพนันทุกชนิด เว็บตรงไม่ผ่านเอเย่นต์2022 เว็บที่ได้รับความนิยมอันดับ 1 ",
   "repository": "https://github.com/gullibles-02/outdoor-10",
-  "keywords": [null],
+  "keywords": [
+    null
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
