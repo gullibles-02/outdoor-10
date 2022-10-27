@@ -1,13 +1,10 @@
 {
-  "name": "หุ้นจีนเช้าย้อนหลัง สมัครยังไง - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "9qnGJW66OLGOAxXLFNRWhq8g36ZZhGX0sMJHMilZB3dVqtpXsu",
   "theme": "syntax",
   "version": "1.0.49",
-  "description": "หุ้นจีนเช้าย้อนหลัง เลขเด็ด ว่า หุ้นจีนเช้าย้อนหลัง ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง งวดประจำวันเสาร์ที่ 1 มิถุนายน 2566 เว็บไซต์หวยไทยขอนำเสนอหวยปฏิทิน",
+  "description": "Robin Hood (2018) ตอบ ว่าด้วย Robin Hood (2018) ที่ IMI689 เว็บพนัน มีเกมพนันทุกชนิด เกมสล็อตเป็นเกมที่นำเข้าจากค่ายต่างประเทศ Robin Hood (2018) เรื่องการอ",
   "repository": "https://github.com/gullibles-02/outdoor-10",
-  "keywords": [
-    "หุ้นจีนเช้าย้อนหลัง",
-    "หุ้นจีนเช้าย้อนหลัง Huay"
-  ],
+  "keywords": [null],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
