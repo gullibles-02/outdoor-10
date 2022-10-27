@@ -1,10 +1,16 @@
 {
-  "name": "Exn3on6WOw1VUw1o8hy4oovTJi8Vbi2frXW7EQEUS3I8yAhe10",
+  "name": "ค่ายpg เกมไหนแตกง่าย สรุปว่าอะไร - เว็บใหม่ letou 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.44",
   "description": "ค่ายpg เกมไหนแตกง่าย ลักษณะเพย์ไลน์ของเกม กับ ค่ายpg เกมไหนแตกง่าย ที่ Letou เว็บพนัน อันดับหนึ่ง Fortune Tiger เป็นเพย์ไลน์ง่าย ๆ ไม่ซับซ้อน จึงเป็นเสน่ห์",
   "repository": "https://github.com/gullibles-02/outdoor-10",
-  "keywords": ["ค่ายPG เกมไหนแตกง่าย","ค่ายPG","เกมไหนแตกง่าย","ค่ายPG Letou","เกมไหนแตกง่าย Letou"],
+  "keywords": [
+    "ค่ายPG เกมไหนแตกง่าย",
+    "ค่ายPG",
+    "เกมไหนแตกง่าย",
+    "ค่ายPG Letou",
+    "เกมไหนแตกง่าย Letou"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
