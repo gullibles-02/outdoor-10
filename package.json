@@ -1,10 +1,13 @@
 {
-  "name": "JirIbC1OXYGbAmbzsOkIcvqr8eBdoMWBlf8gRDffuS0ewLfWIn",
+  "name": "ฮั่งเส็งวันนี้ ได้อย่างไร - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.10",
   "description": "ฮั่งเส็งวันนี้ ทางระบบจะทำการปิดรับการเดิมพันเวลา 1930 เท่ากับ ฮั่งเส็งวันนี้ ที่ Jetsadabet เว็บหวยออนไลน์ อันดับหนึ่ง น. (ตามเวลาของประเทศไทย)ทางระบบจะทำ",
   "repository": "https://github.com/gullibles-02/outdoor-10",
-  "keywords": ["ฮั่งเส็งวันนี้","ฮั่งเส็งวันนี้ Jetsadabet"],
+  "keywords": [
+    "ฮั่งเส็งวันนี้",
+    "ฮั่งเส็งวันนี้ Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
