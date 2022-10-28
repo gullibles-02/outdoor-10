@@ -1,10 +1,13 @@
 {
-  "name": "LFfzxJybcbIOYa2DHHgqRX6UegLONZQLwkG9FRFm3TuRrV9wo1",
+  "name": "วิเคราะห์หุ้นอินเดีย ได้อย่างไร - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "วิเคราะห์หุ้นอินเดีย หวยไทยรัฐ แม้น วิเคราะห์หุ้นอินเดีย ที่ 999Lucky เว็บหวยออนไลน์ อันดับหนึ่ง ชุดเลขผลงานดีที่คอหวยติดตามกันเป็นจำนวนมาก เช่นเดียวกันกับ",
   "repository": "https://github.com/gullibles-02/outdoor-10",
-  "keywords": ["วิเคราะห์หุ้นอินเดีย","วิเคราะห์หุ้นอินเดีย 999Lucky"],
+  "keywords": [
+    "วิเคราะห์หุ้นอินเดีย",
+    "วิเคราะห์หุ้นอินเดีย 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
